@@ -2,7 +2,7 @@
 	// @ts-nocheck
 	/** @type {import('./$types').PageData} */
 	export let data;
-	import '../app.css';
+	import '../app.pcss';
 	import { onMount } from 'svelte';
 	import { returnRandomEmoji } from '$lib/randomEmoji';
 
